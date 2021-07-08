@@ -14,7 +14,9 @@ If you want to know the options to do this, Enter the command below.
 If you want to check your study and test results, take a look at the **Result** directory
 Check the **issue** tap with regard to the data set storage structure.
 
-The working environment used **anaconda**, and the required libraries are as follows.
+IDE used **vi** in **ubuntu 18.04** to **build the environment using anaconda**.
+
+The **required libraries** are as follows.
       tensorflow-gpu 1.15
       keras
       opencv
