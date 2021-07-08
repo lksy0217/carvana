@@ -17,6 +17,7 @@ Check the **issue** tap with regard to the data set storage structure.
 IDE used **vi** in **ubuntu 18.04** to **build the environment using anaconda**.
 
 The **required libraries** are as follows.
+      
       tensorflow-gpu 1.15
       keras
       opencv
