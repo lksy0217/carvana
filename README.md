@@ -12,3 +12,4 @@ If you want to know the options to do this, Enter the command below.
       
       
 If you want to check your study and test results, take a look at the "Result" directory
+Check the "issue" tap with regard to the data set storage structure.
