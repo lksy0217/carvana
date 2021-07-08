@@ -1,3 +1,10 @@
+First, need to download carvana dataset.
+Please refer to the **issue tab** for storage structure after downloading.
+
+Next, need to make npz file.
+      
+      python data.py
+
 if you want to train, Enter the command below.
 
       python run.py
@@ -12,7 +19,6 @@ If you want to know the options to do this, Enter the command below.
       
       
 If you want to check your study and test results, take a look at the **Result** directory
-Check the **issue** tap with regard to the data set storage structure.
 
 IDE used **vi** in **ubuntu 18.04** to **build the environment using anaconda**.
 
